@@ -1,0 +1,19 @@
+canvas{
+    display: none;
+}
+#result{
+position: fixed;
+top: 0;
+left: 0;
+background: #000;
+background: rgba(0, 0, 0, 0.2);
+color: #fff;
+margin: 0;
+padding: 10px 15px;
+display: block;
+}
+
+.result span {
+display: block;
+font-size: 13px;
+}
